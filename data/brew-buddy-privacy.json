@@ -1,0 +1,185 @@
+{
+    "title": "Privacy Policy",
+    "lastUpdated": "June 11, 2026",
+    "intro": [
+        {
+            "id": "intro",
+            "paragraphs": [
+                "Brew Buddy (\"we,\" \"our,\" or \"us\") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application, Brew Buddy (the \"App\").",
+                "Please read this Privacy Policy carefully. By downloading and using the App, you agree to the terms of this Privacy Policy."
+            ]
+        }
+    ],
+    "sections": [
+        {
+            "id": "1",
+            "title": "No Account Creation & Local Data Storage",
+            "bullets": [
+                {
+                    "id": "account-creation-1",
+                    "header": "No Accounts",
+                    "statement": "You do not need to create an account, log in, or provide a name or email address to use the App."
+                },
+                {
+                    "id": "account-creation-2",
+                    "header": "Local Data Storage",
+                    "statement": "All your homebrew tracking data, recipes, and notes are stored strictly on your local device. We do not upload your brewing data to any external servers, and we cannot access, view, or modify your brewing logs."
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "title": "Information We Collect ",
+            "paragraphs": [
+                "While we do not collect your personal data directly through the general use of the App, we may process information under the following specific circumstances:"
+            ],
+            "subSections": [
+                {
+                    "id": "A",
+                    "subSectionTitle": "Information You Provide Voluntarily (Feedback & Support)",
+                    "subSectionParagraphs": [
+                        "If you choose to submit feedback, report a bug, or request a feature to help us improve Brew Buddy (e.g., by sending us an email or filling out a contact form), we will collect:"
+                    ],
+                    "subSectionBullets": [
+                        {
+                            "id": "feedback-1",
+                            "header": "Contact Information",
+                            "statement": "Your email address and any name you provide."
+                        },
+                        {
+                            "id": "feedback-2",
+                            "header": "Message Content",
+                            "statement": "The text of your feedback, suggestions, or bug details, along with any attachments or screenshots you send."
+                        },
+                        {
+                            "id": "feedback-3",
+                            "header": "App Metadata (Optional)",
+                            "statement": "Version of the App and your device type, if included in your support request, to help troubleshoot issues."
+                        }
+                    ],
+                    "subSectionSecondaryParagraphs": [
+                        "We use this information exclusively to respond to your inquiry, fix technical issues, and guide future updates for the App."
+                    ]
+                },
+                {
+                    "id": "B",
+                    "subSectionTitle": "Information Collected Automatically (Third-Party Partners)",
+                    "subSectionParagraphs": [
+                        "We use Google AdMob to display advertisements. To serve ads, Google AdMob may automatically collect and process:"
+                    ],
+                    "subSectionBullets": [
+                        {
+                            "id": "third-party-1",
+                            "header": "Device Identifiers",
+                            "statement": "Your IP address, advertising ID (e.g., Apple's IDFA or Google's Advertising ID)."
+                        },
+                        {
+                            "id": "third-party-2",
+                            "header": "Usage Data",
+                            "statement": "Information about how you interact with ads within the App."
+                        },
+                        {
+                            "id": "third-party-3",
+                            "header": "Location Data",
+                            "statement": "Coarse/approximate location derived from your IP address to serve relevant regional ads."
+                        }
+                    ],
+                    "subSectionSecondaryParagraphs": [
+                        "For more details on how Google uses your data, please review the Google Privacy & Terms Policy"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "title": "Legal Basis for Processing(EU/EEA Users under GDPR)",
+            "paragraphs": [
+                "If you reside in the European Economic Area (EEA), our legal basis for displaying personalized ads via Google AdMob is your Consent."
+            ],
+            "bullets": [
+                "You will be presented with a consent banner when you first open the App.",
+                "You can change your choices or withdraw consent at any time within the App's settings or your device's operating system settings."
+            ]
+        },
+        {
+            "id": "4",
+            "title": "U.S. State Privacy Rights",
+            "paragraphs": [
+                "Under various U.S. state laws, including the California Consumer Privacy Act (CCPA/CPRA), residents have specific rights regarding their personal information.",
+                "Your Rights: "
+            ],
+            "bullets": [
+                {
+                    "id": "privacy-rights-US-1",
+                    "header": "Right to Know/Access",
+                    "statement": "You have the right to know what personal data is collected and shared"
+                },
+                {
+                    "id": "privacy-rights-US-2",
+                    "header": "Right to Delete",
+                    "statement": "You have the right to request deletion of personal data collected. (Because your brewing data is stored locally, deleting the App from your phone will automatically delete all local data)."
+                },
+                {
+                    "id": "privacy-rights-US-3",
+                    "header": "Right to Opt-Out of \"Sale\" or \"Sharing\" for Targeted Advertising",
+                    "statement": "The use of Google AdMob to serve targeted ads may be considered \"selling\" or \"sharing\" under certain state definitions."
+                }
+            ],
+            "secondaryParagraphs": ["How to Exercise Your Rights"],
+            "secondaryBullets": [
+                {
+                    "id": "privacy-rights-US-4",
+                    "header": "Opt-Out of Targeted Advertising",
+                    "statement": "You can opt-out of targeted advertising by using your device settings (e.g., disabling \"Allow Apps to Request to Track\" on iOS or enabling \"Opt out of Ads Personalization\" on Android)."
+                },
+                {
+                    "id": "privacy-rights-US-5",
+                    "header": "Non-Discrimination",
+                    "statement": "We will not discriminate against you for exercising any of these rights"
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "title": "Data Retention",
+            "bullets": [
+                {
+                    "id": "data-retention-1",
+                    "header": "Brewing Data",
+                    "statement": "Your brewing data remains on your device until you manually delete the App or clear its storage cache."
+                },
+                {
+                    "id": "data-retention-2",
+                    "header": "Feedback & Support Data",
+                    "statement": "We retain feedback emails and communications only for as long as necessary to address your suggestions, resolve, technical issues, or implement app improvements."
+                },
+                {
+                    "id": "data-retention-3",
+                    "header": "Ad-Related Data",
+                    "statement": "Third-party ad networks retain data according to their own independent privacy policies."
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "title": "Children's Privacy",
+            "paragraphs": [
+                "The App is not intended for use by children under 18 years of age. We do not knowingly collect personal information from children under 18. If we become aware that we have collected personal information from a child under 18, we will take steps to delete such information as soon as possible. If you believe that we might have any information from or about a child under 18, please contact us."
+            ]
+        },
+        {
+            "id": "7",
+            "title": "Changes to This Privacy Policy",
+            "paragraphs": [
+                "We may update this Privacy Policy from time to time. We will notify you of any changes by updating the \"Last Updated\" at the top of this page. Since the App does not collect user contact information, you are advised to review this Privacy Policy periodically within the App store description or App Settings."
+            ]
+        },
+        {
+            "id": "8",
+            "title": "Contact Us",
+            "paragraphs": [
+                "If you have any questions or about this Privacy Policy, please contact us at the email address below:"
+            ]
+        }
+    ]
+}
